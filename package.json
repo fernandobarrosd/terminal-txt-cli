@@ -1,6 +1,6 @@
 {
   "name": "@fernandobarrosd/terminal-txt-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.js",
   "repository": "https://github.com/fernandobarrosd/terminal-txt-cli.git",
   "author": {
