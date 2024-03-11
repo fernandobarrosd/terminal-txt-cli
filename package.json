@@ -1,8 +1,27 @@
 {
-  "name": "terminal-txt-cli",
+  "name": "@fernandobarrosd/terminal-txt-cli",
   "version": "0.0.1",
   "main": "src/index.js",
   "repository": "https://github.com/fernandobarrosd/terminal-txt-cli.git",
-  "author": "Fernando de Barros <fdebarros0910-2004@hotmail.com>",
-  "license": "MIT"
+  "author": {
+    "name": "Fernando de Barros",
+    "email": "fdebarros0910-2004@hotmail.com",
+    "url": "https://github.com/fernandobarrosd"
+  },
+  "markdown": "github",
+  "keywords": [
+    "cli",
+    "fernandobarrosd",
+    "terminal",
+    "txt"
+  ],
+  "homepage": "https://github.com/fernandobarrosd/terminal-txt-cli",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "node": "^21.7.1"
+  },
+  "bin": {
+    "terminal-txt": "src/index.js"
+  }
 }
